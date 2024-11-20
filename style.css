@@ -1,0 +1,10 @@
+root {
+    --slate-dark: #1F314F;
+    --slate-medium: #68778D;
+    --slate-light: #D5E1EF;
+}
+
+@font-face {
+    font-family: "outfit";
+    src: "font/Outfit-VariableFont_wght.ttf";
+}
